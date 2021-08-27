@@ -1,0 +1,14 @@
+{ "name": "ForwardTagRemoverBot", 
+ "description": " A Telegram Bot To Hide Forward Source",
+ "repository": "https://github.com/ALBINPRAVEEN/AnonymousAlbyBot",
+ "logo": "https://telegra.ph/file/faacd4dd5b446769381f4.jpg",
+ "keywords": [ "bot","ALBINPRAVEEN", "telegram", "hack_with_alby_bot","TeamALBY" ],
+ "success_url": "https://telegram.dog/hack_with_alby_bot",
+ "env": {
+ "BOT_TOKEN": 
+{"description":"Get This Value from https://telegram.dog/BotFather",
+ "value": ""}
+},
+ "buildpacks":
+ [{ "url": "heroku/python" } ]
+ }
