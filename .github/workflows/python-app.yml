@@ -29,5 +29,5 @@ jobs:
       run: |
         python3 bot.py
       env:
-        TOKEN: ${{ secrets.TOKEN }}
+        BOT_TOKEN: ${{ secrets.TOKEN }}
 
